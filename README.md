@@ -8,7 +8,7 @@ Full-stack web applications and machine learning systems using Java, Python, Jav
 [LinkedIn](https://www.linkedin.com/in/monesh-devadiga/)  
 [GitHub](https://github.com/Monesh-Devadiga)  
 [Portfolio](https://moneshdevadiga.netlify.app/)  
-[Instagram: https://www.instagram.com/monesh.16](https://www.instagram.com/monesh.16?igsh=MTVueXc5eGY3eWE0Yw==)
+[Instagram](https://www.instagram.com/monesh.16?igsh=MTVueXc5eGY3eWE0Yw==)
 
 
 ---------------------------------------------------------------------------------------------------------------------
