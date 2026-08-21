@@ -13,5 +13,5 @@ It provides an overview of my technical skills, featured projects, certification
 
 
 ---------------------------------------------------------------------------------------------------------------------
-Created By: 
+Designed and Managed By: 
   [@Monesh Devadiga](https://github.com/Monesh-Devadiga)
