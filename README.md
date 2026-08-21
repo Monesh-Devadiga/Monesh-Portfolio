@@ -2,7 +2,7 @@
 
 This portfolio website presents my work as a Computer Science and Engineering student with interests in Full Stack Development, Machine Learning and AI. It provides an overview of my technical skills, featured projects, certifications and professional profiles.
 #### Live in: -->[Portfolio](https://moneshdevadiga.netlify.app/)  
-
+-------------------------------------------------------------------------------
 ### Let's Connect
 [Email](mailto:moneshdevadiga28@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/monesh-devadiga/)  
