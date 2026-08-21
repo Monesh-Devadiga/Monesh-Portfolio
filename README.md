@@ -1,7 +1,7 @@
 ﻿# Monesh-Portfolio
 
 
-My personal developer portfolio showcasing my skills, projects, certifications and experience in Computer Science and Engineering.
+Explore my personal developer portfolio showcasing my skills, projects, certifications and experience in Computer Science and Engineering.
 
 
 ### Connect With Me
