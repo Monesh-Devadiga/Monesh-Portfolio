@@ -14,4 +14,5 @@ It provides an overview of my technical skills, featured projects, certification
 
 ---------------------------------------------------------------------------------------------------------------------
 Designed and Managed By: 
-  [@Monesh Devadiga](https://github.com/Monesh-Devadiga)
+  [@Monesh Devadiga](https://github.com/Monesh-Devadiga)  
+CSE Student @SCEM, Mangalore
