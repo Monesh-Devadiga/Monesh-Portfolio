@@ -1,7 +1,7 @@
 ﻿# Monesh-Portfolio
 
 Explore my personal developer portfolio showcasing my skills, projects, certifications and experience in Computer Science and Engineering.
-#### Live: [Portfolio](https://moneshdevadiga.netlify.app/)  
+#### Live: -->[Portfolio](https://moneshdevadiga.netlify.app/)  
 
 
 ### Connect With Me
