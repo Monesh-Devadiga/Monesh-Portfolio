@@ -1,7 +1,7 @@
 ﻿# Monesh-Portfolio
 
 
-Full-stack web applications and machine learning systems using Java, Python, JavaScript, Node.js, Laravel, TensorFlow, and SQL. I am interested in building practical software solutions and AI-integrated applications.
+My personal developer portfolio showcasing my skills, projects, certifications and experience in Computer Science and Engineering.
 
 
 ### Connect With Me
