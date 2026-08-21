@@ -1,6 +1,7 @@
 ﻿# Monesh-Portfolio
 
-Explore my personal developer portfolio showcasing my skills, projects, certifications and experience in Computer Science and Engineering.
+This portfolio website presents my work as a Computer Science and Engineering student with interests in Full Stack Development, Machine Learning and AI.
+It provides an overview of my technical skills, featured projects, certifications, and professional profiles.
 #### Live: -->[Portfolio](https://moneshdevadiga.netlify.app/)  
 
 
