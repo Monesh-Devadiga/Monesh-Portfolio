@@ -7,7 +7,7 @@ It provides an overview of my technical skills, featured projects, certification
 
 ### Connect With Me
 [LinkedIn](https://www.linkedin.com/in/monesh-devadiga/)  
-[GitHub](https://github.com/Monesh-Devadiga) 
+[GitHub](https://github.com/Monesh-Devadiga)  
 [Instagram](https://www.instagram.com/monesh.16?igsh=MTVueXc5eGY3eWE0Yw==)
 <!--[Portfolio](https://moneshdevadiga.netlify.app/)-->
 
